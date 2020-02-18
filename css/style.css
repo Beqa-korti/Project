@@ -1,6 +1,3 @@
-
-
-
 header{
     width: 100%;
     height:60px;
@@ -46,7 +43,6 @@ header{
 .calendari{
     color:#fff;
     padding-left: 10px;
-
 }
 .fa-clock{
     color: #f23849;
@@ -101,7 +97,6 @@ header{
     color: #D02622;
     cursor: pointer;
 }
-
 .logo-menu{
     width: 100%;
     height: 100px;
@@ -140,6 +135,7 @@ header{
     color: white; 
     text-align: center;
     font-size: 30px;
+    margin-top: 15px;
 }
 /* navigaciis dasawyisi */
 .menu{
@@ -163,10 +159,8 @@ header{
     font-size: 21px;
     text-align: center;
     margin-right: 36px;
-    
     text-align: center;
     text-transform: uppercase;
-    /* font-weight: 500; */
     letter-spacing: 1px;
   }
   .menu-li * {
@@ -249,8 +243,7 @@ header{
 .effect1{
     width: 100%;
     height: 700px;
-    display: block;
-    
+    display: block; 
 }
 .effect-img{
     width: 100%;
@@ -258,7 +251,6 @@ header{
     margin: 0px;
     padding: 0px;
     position: absolute;
-    
 }
 .effect1_tittle{
     width: 530PX;
@@ -296,7 +288,6 @@ header{
    text-align: center;
 }
 /* slaideris dasasruli and section-1 */
-
 /* section-2 */
 .crossfit{
     width: 100%;
@@ -630,6 +621,7 @@ align-items: center;
 .text-are-trainer{
     font-size: 20px;
     color: #969696;
+    text-align: center;
 }
 .trainer1{
     width:100%;
@@ -859,7 +851,7 @@ align-items: center;
 }
 .paralax-hover-box1:hover{
     text-shadow:2px 2px 4px #ff0511;
-    transition: 1.5s;
+    transition: 0.7s;
     cursor: pointer;
 }
 .border-div-on{
@@ -876,7 +868,7 @@ align-items: center;
     width: 290px;
 }
 #anime-div-an{
-    font-size: 30px;
+    font-size: 22px;
     position: absolute;
     color:  white;
 }
@@ -925,7 +917,6 @@ align-items: center;
 /* foteris dasawyisi */
 .footer-container{
     width: 100%;
-    height: 335px;
     background-color:#000000 ; 
     display: flex;
     justify-content: center;
@@ -937,6 +928,7 @@ align-items: center;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 40px;
 }
 .footer-box1{
     width: 300px;
@@ -969,6 +961,7 @@ align-items: center;
     margin-top: 40px;
     border: none;
     outline: none;
+    margin-left: -30px;
     
 }
 .icone-all-footer{
@@ -1083,7 +1076,7 @@ align-items: center;
 /* footer menu */
 .footer-menu{
     width: 100%;
-    height: 80px;
+    height: 85px;
     background-color:black ;
     display: flex;
     justify-content:space-evenly;
@@ -1124,7 +1117,7 @@ align-items: center;
     transition: 0.7s;
 }
 .footer-navigation-container{
-    width: 555px;
+    width: 610px;
     height: 70px;
     display: flex;
     justify-content: center;
@@ -1292,9 +1285,9 @@ align-items: center;
     transition: 0.4s;
 }
 .about-icon{
-    width: 350px;
+    width: 355px;
     height: 30px;
-    margin: 50px 20px 0px;
+    margin: 50px 30px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1362,6 +1355,9 @@ align-items: center;
     font-size: 50px;
     color: white;
 }
+.years{
+    margin-left: 10px; 
+}
 .about-all-box-color{
     color: #919191;
 }
@@ -1374,7 +1370,7 @@ align-items: center;
     text-align: center;
     border-left: 2px solid #f23849;
     margin-right: 30px;
-    font-size: 17px;
+    font-size: 15px;
 }
 .about-section-box2{
     width:425px;
@@ -1396,7 +1392,7 @@ align-items: center;
     justify-content: space-between;
 }
 .club{
-    padding-left: 10px;
+    padding-left: 20px;
 }
 /* damtavrda about-compani section */
 /* daiwyo ebout-paralax-section */
@@ -1480,7 +1476,7 @@ align-items: center;
 }
 .DOLORSITAMET{
     padding-left: 5px;
-    font-size: 25px;
+    font-size: 24px;
 }
 .about-paralax-box4{
     width: 210px;
@@ -1491,6 +1487,7 @@ align-items: center;
 }
 .QUIADOLORSIT{
     padding-left: 7px;
+    font-size: 24px;
 }
 .about-paralax-box5{
     width: 210px;
@@ -1501,7 +1498,440 @@ align-items: center;
 }
 .QUIA-DOLOR-SIT{
     padding-left: 7px;
+    font-size: 24px;
 }
 /* damtavarda about-paralax-section */
+.about-logoebi-container{
+    width: 100%;
+    height: 400px;
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-logoebi-container-box{
+    width: 1300px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.img-about-logoebi{
+    width: 197px;
+    height: 150px;
+}
+.img-about-logoebi:hover{
+    opacity: 0.7;
+    transition-duration: 0.3s;
+    cursor: pointer;
+}
+/* damtavrda about-logoebis section */
+.about-contact-us-container{
+    width: 100%;
+    height: 137px;
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+    background-image: url(../img/bg-contacts.svg);
+}
+.about-contact-container{
+    width: 1300px;
+    height: 120px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.about-contact-satauri{
+    width: 800px;
+    height: 120px;  
+}
+.satauri-about-contact{
+    width: 800px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.about-contact{
+    color: white;
+}
+.about-us{
+    margin-left: 10px;
+    color: #F23849;
+}
+.about-contact-text{
+    width: 800px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: #C6CCC6;
+}
+/* about-contact-form */
+.about-contact-form{
+    width: 100%;
+    height: 650px;
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+    background-image: url(../img/bg-contacts.svg);
+}
+.about-form{
+    width: 1300px;
+    height: 630px;
+    background-color:#202020;
+    display:flex;
+    justify-content: space-evenly;
+}
+.about-form-section1{
+    width: 380px;
+    height: 525px;
+    margin-top: 60px;   
+}
+.about-form-box1{
+    width: 380px;
+    height: 150px;
+    background-color:#272A31;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.form-box1{
+    width: 130px;
+    height: 100px;
+}
+.form-box1 img{
+    width: 60px;
+    height: 50px; 
+    margin-top: 10px;
+}
+.form-box1-p{
+    font-size: 18px;
+    color: white;
+    padding-top: 15px;
+}
+.form-box1-text{
+    width: 230px;
+    height: 100px;
+    margin-left: 10px;
+    border-left: 2px solid #F23849;
+}
+.form-text-p{
+    text-align: center;
+    font-size: 20px;
+    margin: 20px;
+    color:#828282 ;
+}
+.about-form-box2{
+    width: 380px;
+    height: 150px;
+    background-color: #272a31;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.about-form-box3{
+    width: 380px;
+    height: 150px;
+    background-color: #272a31;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.about-form-section2{
+    width: 880px;
+    height: 630px;
+}
+.input-contact-form{
+    width: 880px;
+    height: 550px;
+    margin-top: 80px;
+}
+.name-forma-contact{
+    width: 700px;
+    height: 100px;
+}
+.contact-name-p{
+    font-size: 18px;
+    color: white;
+    padding-bottom: 12px;
+    padding-top: 15px;
+}
+.name-contact-input{
+    width: 890px;
+    height: 30px;
+    border: none;
+    background-color:#272A31;
+    border-bottom:#F23849  2px solid;
+    color: white;
+}
+.clear-both{
+    width: 600px;
+    height: 1px;
+}
+.text-area-divi{
+    width: 600px;
+    height: 250px;
+}
+.textarea-p{
+    padding-top: 5px;
+    color: white;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.text-area{
+    width: 890px;
+    height: 200px;
+    background-color:#272A31;
+    border: none;
+    border-bottom:#F23849  2px solid;
+    color: white;
+}
+.ghilaki{
+    width: 895px;
+    height: 59px;
+    display: flex;
+    justify-content: flex-end;
+}
+.send-message-plz{
+    width: 166px;
+    height: 45px;
+    background-color: #F23849;
+    border: none;
+    color: #fff;
+}
+.send-message-plz:hover{
+    background-color: #272A31;
+    border: 2px solid #F23849;
+    transition: 0.3s;
+    color: #D43645;
+}
+/* about-contact us dasasruli */
+/* daiwyo servisis gverdi */
+.club-cards-container{
+    width: 100%;
+    height: 900px;
+    background-color: #202020;
+}
+.club-cards-sataurebi{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.club-cards-satauri{
+    width: 200px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    margin-top: 60px;
+}
+.satauri-club{
+    color: white;
+}
+.satauri-cards{
+    color: #D43645;
+    margin-left: 10px;
+}
+.club-cards-textebi{
+    width: 100%;
+    height: 100px; 
+    display: flex;
+    justify-content: center;
+}
+.club-cards-text{
+    width: 700px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.club-card-p{
+    font-size: 20px;
+    color: #ccc;
+}
+.club-cards-boxebi{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+}
+.club-cards-cardebi{
+    width: 1300px;
+    height: 700px;
+}
+/* daiwyo boxebi pirveli boxi */
+.club-cards-post-div{
+    display: flex;
+    justify-content: space-around;
+}
+.club-cards-box1{
+    width: 400px;
+    height: 570px;
+    margin-right: 2px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #272A31;
+    background-image: url(../img/bg-price-1.svg);
+    background-position: center center;
+    background-size: auto;
+    box-shadow: 4px 4px 14px 0px rgba(0,0,0,0.15);
+}
+.club-cards-box1-border{
+    width: 370px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.club-cards-box1-border:hover{
+    border: solid 5px #F23849;
+    transition: 0.4s;
+}
+.club-satauri{
+    width: 350px;
+    height: 82px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+.card-40{
+    padding: 0px 4px;
+    font-size: 70px;
+    color: white;
+}
+.card-99{
+    font-size: 36px;
+    margin-bottom: 32px;
+    color: gold;
+}
+.card-months{
+    margin: 28px 0px 0px -50px;
+    font-size: 28px;
+    color: white;
+}
+.cards-text{
+    width: 350px;
+    height: 29px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.cards-text1{
+    color: darkgrey;
+    border-bottom: 1px solid #ccc;
+    width: 350px;
+    height: 29px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+.club-div-gilaki{
+    width: 350px;
+    height: 100px;
+    /* margin-top: 400px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.cards-VIEW-gilaki{
+    background-color: #F23849;
+    border: none;
+    padding: 15px;
+    color: #fff;
+}
+.cards-VIEW-gilaki:hover{
+    background-color: #272A31;
+    border: 2px solid #F23849;
+    transition: 0.5s;
+    color: #D43645;
+}
+/* meore boxi */
+.club-cards-container2{
+    width: 400px;
+    height: 570px;
+    margin-right: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #272A31;
+    background-image: url(../img/bg-price-1.svg);
+    background-position: center center;
+    background-size: auto;
+    box-shadow: 4px 4px 14px 0px rgba(0,0,0,0.15);
+}
+.club-cards-border{
+    width: 370px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.club-cards-border:hover{
+    border: solid 5px #F23849;
+    transition: 0.4s;
+}
+/* daiwyo mesame boxi */
+.club-cars-container3{
+    width: 400px;
+    height: 570px;
+    margin-right: 2px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #272A31;
+    background-image: url(../img/bg-price-1.svg);
+    background-position: center center;
+    background-size: auto;
+    box-shadow: 4px 4px 14px 0px rgba(0,0,0,0.15);
+}
+.club-cardss-border{
+    width: 370px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.club-cardss-border:hover{
+    border: solid 5px #F23849;
+    transition: 0.4s;
+}
+/* damtavrda sevisi */
+/* daiwyo contacti */
+.map-container{
+    width: 100%;
+    height: 450px;
+    
+    background-color: rgba(0,0,0,0.7);
+}
+.map-div iframe{
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
 
 
