@@ -1,0 +1,361 @@
+@media only screen and (max-width: 1024px) {
+    .search-bar{
+        display: none;
+    }
+    .top-menu{
+        width: 1000px;
+
+    }
+    .slider-section{
+        height: 450px;
+    }
+    .slider{
+        width: 1024px;
+        height: 450px;
+    }
+    .effect1{
+        width: 100%;
+        height: 700px;
+        display: block; 
+    }
+    .effect-img{
+        height: 400px;
+    }
+    .effect1_tittle{
+        top: 65%;
+        font-size: 55px;
+
+    }
+    .tittle-paragrafi{
+        top: 65%;
+        letter-spacing: 2px;
+    }
+    .tittle-p{
+        font-size: 15px;
+    }
+    .crossfit{
+        width: 100%;
+    }
+    .home-div{
+        width: 100%;
+    }
+    .welcome-div{
+        width: 1024px;
+    }
+    .text-div1{
+        width: 100%;
+    }
+    .texti-aq{
+        width: 1024px;
+    }
+    .post-div{
+        width: 100%;
+    }
+    .gira{
+        width: 330px;
+        height: 350px;
+        margin-right: 7px;
+        padding: 2px;
+    }
+    .gira-border{
+        width: 325px;
+        height: 330px;
+    }
+    .gira-border:hover{
+        border: solid 2px #F23849;
+        transition: 0.4s;
+    }
+    .gira-div-crossfit{
+        width: 330px;
+    }
+    .gira-img-div{
+        width: 330px;
+    }
+    .gira-div-h3{
+        width: 330px; 
+    }
+    .gira-div-p{
+        width: 330px;
+        font-size: 14px;
+    }
+    .gilaki-div-gilaki{
+        width: 330px;
+    }
+
+    .kuntebi{
+        width: 330px;
+        height: 350px;
+        margin-right: 7px;
+        padding: 2px;
+    }
+    .kuntebi-border{
+        width: 325px;
+        height: 330px;
+    }
+    .kuntebi-border:hover{
+        border: solid 2px #F23849;
+        transition: 0.4s;
+    }
+    .kuntebi-div-crossfit{
+        width: 330px;
+    }
+    .kuntebi-img-div{
+        width: 330px;
+    }
+    .kuntebi-div-h3{
+        width: 330px;
+    }
+    .kuntebi-div-p{
+        width: 330px;
+        font-size: 14px;
+    }
+    .kuntebi-div-gilaki{
+        width: 330px;
+    }
+
+    .boxi{
+        width: 330px;
+        height: 350px;
+        margin-right: 2px;
+    }
+    .box-border{
+        width: 325px;
+        height: 330px;
+    }
+    .box-border:hover{
+        border: solid 2px #F23849;
+        transition: 0.4s;
+    }
+    .home-div-crossfit{
+        width: 330px;
+    }
+    .image-div{
+        width: 330px;
+    }
+    .div-h3{
+        width: 330px;
+    }
+    .div-p{
+        width: 330px;
+        font-size: 14px;
+    }
+    .div-gilaki{
+        width: 330px;
+    }
+
+    .container{
+        width: 100%;
+    }
+    .paralax{
+        width:1024px;
+    }
+    .paralax0{
+        width: 1024px;
+    }
+    .paralax-container{
+        width: 1024px;
+        height: 600px;
+    }
+    .paralax-container1{
+        width: 1024px;
+    }
+    .paralax-container-box1{
+        width: 1024px;
+    }
+    .paralax-container-box2{
+        width: 1024px;
+    }
+    .paralax-container2{
+        width: 1024px;
+        height: 320px;
+    }
+    .paralax-box1{
+        width: 250px;
+        height: 300px;
+    }
+    .paralax-hover-box1{
+        width: 220px;
+        height: 260px;
+    }
+    .gogos-class{
+        width: 226px;
+    }
+    #anime-div-an{
+        font-size: 19px;
+    }
+    .border-div-on{
+        width: 210px;
+        height: 235px;
+    }
+    .paralax-box2{
+        width: 250px;
+        height: 300px;
+    }
+    .paralax-box4{
+        width: 250px;
+        height: 300px;
+    }
+    .trainer{
+        width: 100%;
+    }
+    .divi-satauri{
+        width: 1000px;
+        height: 150px;
+    }
+    .divi-trainer-satarui{
+        width: 1000px;
+        height: 75px;
+    }
+    .our-trainer-h3{
+        font-size: 30px;
+    }
+    .divi-text-trainer{
+        width: 1000px;
+        height: 60px; 
+    }
+    .text-are-trainer{
+        font-size: 17px;
+    }
+    .trainer1{
+        width: 100%;
+        height: 600px;
+    }
+    .satauri1{
+        width: 1024px;
+        height: 625px;
+    }
+    .box-trainer{
+        width: 1024px;
+        height: 300px;
+    }
+    .sam-piters{
+        width: 482px;
+        height: 265px;
+        margin: 10px;
+    }
+    .sam-piters-div1{
+        width: 145px;
+        height: 265px;
+    }
+    .sam-piters-img{
+        width: 145px;
+        height: 260px;
+        overflow: hidden;
+    }
+    .sam-piters-img img{
+        width: 170px;
+    }
+    .sam-piters-div2{
+        width: 335px;
+        height: 223px;
+        margin: 35px 0px 0px 10px;
+    }
+    .sam-piters-h3{
+        padding: 30px 0px 0px 25px;
+       font-size: 20px;
+    }
+    .sam-piters-h5{
+        padding: 15px 0px 0px 25px;
+        font-size: 18px;
+    }
+    .sam-piters-p{
+        padding: 20px 0px 0px 25px;
+        font-size: 13px;
+    }
+    .sam-piters-icon{
+        padding: 20px 0px 0px 25px;
+        font-size: 26px; 
+    }
+    .footer-container{
+        width: 1024px;
+        height: 235px;
+    }
+    .footer-div-container1{
+        width: 1024px;
+        height: 238px;
+        margin-top: 0px;
+    }
+    .footer-box1{
+        width: 300px;
+        height: 240px;
+        margin-left: 30px;
+    }
+    .img-foter{
+        width: 300px;
+        height: 70px;
+    }
+    .img-foter img{
+        width: 205px;
+        height: 80px;
+        margin-left: 10px;
+    }
+    .footer-box1-text{
+        width: 294px;
+        height: 35px;
+    }
+    .footer-p-text{
+        font-size: 17px;
+        padding: 15px;
+        margin-top: 15px;
+        color: white;
+    }
+    .footer-icon{
+        width: 322px;
+        height: 30px;
+        margin-top: 25px;
+        margin-left: -32px;
+    }
+    .footer-box2{
+        width: 300px;
+        height: 228px; 
+    }
+    .footer-h3{
+        width: 210px;
+        height: 60px;
+        margin-left: 15px;
+        font-size: 30px;
+        padding-top: 0px;
+    }
+    .footer-li{
+        width: 220px;
+        margin-left: 15px;
+        font-size: 19px;
+        padding-top: 0px;
+        color: white;
+    }
+    .footer-box3{
+        width: 300px;
+        height: 250px;
+        margin-right: 25px;
+    }
+    .footer-box3-satauri{
+        width: 250px;
+        height: 50px;
+        margin-left: 15px;
+        font-size: 30px;
+        padding-top: 25px;
+    }
+    .footer-all-ikone{
+        width: 265px;
+        height: 112px;
+        margin-top: 0px;
+        margin-left: 15px;
+        font-size: 20px; 
+    }
+    .footer-box4{
+        display: none;
+    }
+    .footer-menu{
+        width: 100%;
+    }
+    .border-menu-footer{
+        width: 1024px;
+    }
+    .footer-navigation-box1{
+        display: none;
+    }
+    .footer-navigation-container{
+        width: 660px;
+    }
+  }
+

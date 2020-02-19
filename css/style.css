@@ -1758,6 +1758,7 @@ align-items: center;
 .club-card-p{
     font-size: 20px;
     color: #ccc;
+    text-align: center;
 }
 .club-cards-boxebi{
     height: 700px;
