@@ -1,8 +1,14 @@
+@media only screen and (max-width: 1025px){
+    .welcome-div{
+        width: 100%;
+    }
+}
 @media only screen and (max-width: 1024px) {
     header{
         width: 100%;
         height: 60px;
     }
+   
     .search-bar{
         display: none;
     }
